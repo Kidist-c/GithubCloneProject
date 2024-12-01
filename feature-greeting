@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is The Branch in main
+=======
+This is a New feature!
+
+This is a branch in main.s
+>>>>>>> feature-greeting
